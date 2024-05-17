@@ -14,4 +14,4 @@ software I use:
 - arch linux (btw)
 - qtile - as a window manager
 
-you can text me on [discord](https://discordapp.com/users/414446828235259905) or email me (wozniczka.jakub@proton.me)
+you can text me on [matrix](https://matrix.to/#/@banku:envs.net) and [discord](https://discordapp.com/users/414446828235259905) or email me (wozniczka.jakub@proton.me)
