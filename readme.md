@@ -5,8 +5,6 @@ linux is my main operating system
 
 I know python, javascript, bash, html, css and sql 
 
-my current focus: full stack 
-
 thinkpad owner 
 
 software I use: 
